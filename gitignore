@@ -1,0 +1,3 @@
+#Archivos que no queremos que se nos suba
+.DS_STORE
+.pdf
